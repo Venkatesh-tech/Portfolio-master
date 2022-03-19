@@ -1,3 +1,6 @@
+import "bootstrap/dist/css/bootstrap.min.css";
+import "./App.css";
+
 import React, { useState, useEffect } from "react";
 import Preloader from "../src/components/Pre";
 import Navbar from "./components/Navbar";
@@ -13,9 +16,7 @@ import {
   Redirect,
 } from "react-router-dom";
 import ScrollToTop from "./components/ScrollToTop";
-import "bootstrap/dist/css/bootstrap.min.css";
-import "./style.css";
-import "./App.css";
+
 function App() {
   const [load, upadateLoad] = useState(true);
   useEffect(() => {
