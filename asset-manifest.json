@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.39527de9.chunk.css",
-    "main.js": "/static/js/main.eef2bbc5.chunk.js",
-    "main.js.map": "/static/js/main.eef2bbc5.chunk.js.map",
+    "main.js": "/static/js/main.a3a29f32.chunk.js",
+    "main.js.map": "/static/js/main.a3a29f32.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3295c91d.js",
     "runtime-main.js.map": "/static/js/runtime-main.3295c91d.js.map",
     "static/css/2.dc1960d9.chunk.css": "/static/css/2.dc1960d9.chunk.css",
@@ -18,7 +18,7 @@
     "static/media/Portfolio.4fecfe88.png": "/static/media/Portfolio.4fecfe88.png",
     "static/media/Studyeze.6ac8e43f.png": "/static/media/Studyeze.6ac8e43f.png",
     "static/media/UseDrive.d9bae2bc.png": "/static/media/UseDrive.d9bae2bc.png",
-    "static/media/Venkatesh_tech_Resume_.79d356e4.pdf": "/static/media/Venkatesh_tech_Resume_.79d356e4.pdf",
+    "static/media/Venkatesh_tech_Resume_.7b7caac3.pdf": "/static/media/Venkatesh_tech_Resume_.7b7caac3.pdf",
     "static/media/about.aee0f771.png": "/static/media/about.aee0f771.png",
     "static/media/avatar.5852f40f.svg": "/static/media/avatar.5852f40f.svg",
     "static/media/budgety.7c6ba73b.png": "/static/media/budgety.7c6ba73b.png",
@@ -32,6 +32,6 @@
     "static/css/2.dc1960d9.chunk.css",
     "static/js/2.ea88c172.chunk.js",
     "static/css/main.39527de9.chunk.css",
-    "static/js/main.eef2bbc5.chunk.js"
+    "static/js/main.a3a29f32.chunk.js"
   ]
 }
